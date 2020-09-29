@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cheroki84" alt="cheroki84" /> </p>
 
-- 💬 Ask me about **Html, CSS or JavaScript**
+- 💬 Ask me about **HTML5, CSS3 or JavaScript**
 
 - 📫 How to reach me **miguelangelmorato84@gmail.com**
 
