@@ -6,7 +6,7 @@
 
 <p align="center">
 <h3 align="center">Connect with me:</h3>
-<a href="https://linkedin.com/in/miguelangelmorato84" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="miguelangelmorato84" height="30" width="40" /></a>
+<a align="center" href="https://linkedin.com/in/miguelangelmorato84" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="miguelangelmorato84" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
