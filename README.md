@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Ángel Morato</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">FrontEnd Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cheroki84&label=Profile%20views&color=21f312&style=plastic" alt="cheroki84" /> </p>
 
